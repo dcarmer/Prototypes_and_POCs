@@ -1,0 +1,7 @@
+0.02 |Width
+0.02 |Height
+0.001|Speed
+0.005 |Damage
+0.005|Cost
+Bounce|Motion Path
+.gif|FileType

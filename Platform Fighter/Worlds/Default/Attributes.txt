@@ -1,0 +1,25 @@
+0.00001 |Gravity
+0.000005|G Friction
+0       |A Friction
+0.02|Potion Width
+0.04|Potion Height
+0.01|Potion Power
+0.04|Cloud Width
+0.06|Cloud Height
+0.005|Rain Width
+0.02 |Rain Height
+0.001|Rain Speed
+0.005|Lightning Width
+0.003|Lightning Speed
+0.03|Satilite Width
+0.06|Satilite Height
+0.01|Satilite Speed
+0.05  |Platform Width
+0.015 |Platform Height
+0.05  |Platform Range
+0.0003|Platform maxSpeed
+0.03 |Coin Width
+0.04 |Coin Height
+0.001|Coin X Speed
+0.002|Coin Y Speed
+0.0001|Wind Speed

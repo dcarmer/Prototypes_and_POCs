@@ -1,0 +1,10 @@
+0.04   |Width
+0.14   |Height
+0.002  |maxXSpeed
+0.004  |jumpSpeed
+0.00001|Acceleration
+.gif|FileType
+100|Life
+100|Mana
+100|Coins
+
