@@ -1,0 +1,5 @@
+Open_Menu:27
+Move_Up:87
+Move_Down:83
+Move_Left:65
+Move_Right:68
